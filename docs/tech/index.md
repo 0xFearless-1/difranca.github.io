@@ -1,6 +1,5 @@
 ---
-title: Tech-Notes
-sidebar_label: Introduction
+title: Service
 keywords:
   [
     learning,
