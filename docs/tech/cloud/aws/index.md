@@ -19,7 +19,7 @@ _Amazon Web Services provides on-demand cloud computing services._
 
 :::note More Information
 
-- https://aws.amazon.com
+- https://tesserv.com
 
 :::
 
